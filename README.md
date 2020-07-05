@@ -1,1 +1,4 @@
-# Demo42
+# Demo42from random import shuffle
+name = ['Anil', 'charan', 'kiran', 'mahesh', 'Dileep', 'Kumar']
+shuffle(name)
+print(name)
